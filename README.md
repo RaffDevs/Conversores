@@ -1,5 +1,5 @@
 # Conversores
-Conversor de algumas unidades feito em Swift durante o curso de desenvolvimento IOS do professor Eric Brito
+Conversor de algumas unidades feito em Swift.
 
 <span>
   <img src="https://user-images.githubusercontent.com/56967435/209357393-7c2eab84-142c-41dd-8529-77bee5af0509.png" alt="drawing" width="200"/>
